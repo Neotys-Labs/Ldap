@@ -5,7 +5,7 @@ central authentication server for your organization or want to simplify access t
 ## Overview
 
 This repository contains NeoLoad Advanced Actions that allows performance testers using NeoLoad to connect LDAP Server & perform lookup for account.
- Other types of look also can implement.
+ Other types of lookup also can implement.
 
 | Property           | Value                                                                         |
 |--------------------|-------------------------------------------------------------------------------|
