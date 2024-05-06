@@ -29,7 +29,7 @@ This repository contains NeoLoad Advanced Actions that allows performance tester
 
 This Advanced Action establishes a connection to a LDAP Server.
 Example:
-<p align="center"><img src="/screenshots/connect.jpg" alt="Connect" /></p>
+<p align="center"><img src="/screenshots/connect.png" alt="Connect" /></p>
 
 ### ldaplookup
 
