@@ -35,7 +35,7 @@ Example:
 
 This Advanced Action perform lookup .
 Example:
-<p align="center"><img src="/screenshots/lookup.jpg" alt="Connect" /></p>
+<p align="center"><img src="/screenshots/Lookup.jpg" alt="lookup" /></p>
 
 ## ChangeLog
 
